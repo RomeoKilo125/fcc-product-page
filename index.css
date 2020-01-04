@@ -38,7 +38,8 @@ section {
   height: 800px;
 @media only screen and (max-width: 640px) {
   #topContainer {
-    width: 600px;
+    width: 100%;
+    padding-top: 210px;
   }
 
   #header {
