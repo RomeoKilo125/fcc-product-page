@@ -20,6 +20,15 @@ section {
   color: #eee;
 }
 
+p {
+  padding: .25em;
+}
+
+input {
+  font-size: 16px;
+  height: 2em;
+}
+
 .nav-link {
   display: block;
   padding: 25px;
