@@ -32,4 +32,16 @@ nav {
 
 section {
   height: 800px;
+@media only screen and (max-width: 640px) {
+  #topContainer {
+    width: 600px;
+  }
+
+  #header {
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+
 }
