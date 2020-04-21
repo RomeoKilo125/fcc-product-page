@@ -1,4 +1,5 @@
 # fcc-product-page
+
 a product landing page sample for FreeCodeCamp
 
 ~~User Story #1: My product landing page should have a header element with a corresponding id="header".~~
